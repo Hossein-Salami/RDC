@@ -5,4 +5,4 @@ Main.m defines intial parameters including vessel pH, total enzyme concentration
 
 Project was developed for the work: "Model development for enzymatic reactive crystallization of β-lactam antibiotics: a reaction–diffusion-crystallization approach" - https://pubs.rsc.org/en/content/articlelanding/2020/re/d0re00276c/unauth
 
-![Screenshot](Model_framework.pdf)
+<img src="relative/path/in/repository/to/Model_framework.pdf" width="128"/>
