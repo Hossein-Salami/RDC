@@ -5,10 +5,10 @@ Main.m defines intial parameters including vessel pH, total enzyme concentration
 
 Overall model framework:
 
-<img src="assets/framework.PNG" width="460"/>
+<img src="assets/framework.PNG" width="580"/>
 
 Project was developed for the work: "Model development for enzymatic reactive crystallization of β-lactam antibiotics: a reaction–diffusion-crystallization approach"
 https://pubs.rsc.org/en/content/articlelanding/2020/re/d0re00276c/unauth
 
 Example output showing the crystal formation rate as a function of vessel pH in a batch process:
-<img src="assets/Fig_pH sensitivity.PNG" width="460"/>
+<img src="assets/Fig_pH sensitivity.PNG" width="400"/>
